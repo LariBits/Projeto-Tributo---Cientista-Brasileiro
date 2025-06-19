@@ -12,5 +12,5 @@ A página de tributo a Bertha Lutz oferece as seguintes características:
 
 * **Design Responsivo**: Adapta-se perfeitamente a diversos tamanhos de tela, garantindo uma boa experiência tanto em computadores quanto em dispositivos móveis.
 * **Estrutura Clara**: Conteúdo bem organizado com seções dedicadas à linha do tempo da vida de Bertha Lutz e um link para mais informações.
-* **Validação de Requisitos**: Desenvolvida para cumprir todos os [User Stories do freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/build-a-tribute-page), garantindo a presença dos elementos `main`, `title`, `img-div`, `image`, `img-caption`, `tribute-info`, e `tribute-link` com suas respectivas propriedades.
+* **Validação de Requisitos**: Desenvolvida para cumprir o desafio do [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page).
 * **Foco na Legibilidade**: Utilização de fontes clássicas (`Times New Roman`) e um layout centralizado para facilitar a leitura da biografia.
